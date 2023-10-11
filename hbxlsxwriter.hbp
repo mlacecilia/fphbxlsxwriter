@@ -1,7 +1,7 @@
 -hblib
 -rebuild
 
--olib/${hb_plat}/${hb_cpu}/${hb_comp}/${hb_name}
+-olib/${hb_plat}/${hb_comp}/${hb_cpu}/${hb_name}
 
 -w3 -es2
 
